@@ -1,0 +1,18 @@
+# Ignorar el directorio de módulos de Node.js
+node_modules/
+
+# Ignorar el archivo de bloqueo de npm
+package-lock.json
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar directorios de compilación
+dist/
+build/
+
+# Ignorar archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
